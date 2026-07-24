@@ -1,0 +1,26 @@
+# Milton Heating & Cooling
+
+> Milton Heating & Cooling is a local HVAC company serving Milton, Wellington County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 878-2164  |  Email: contact@miltonheatingcooling.ca  |  Website: https://miltonheatingcooling.ca
+
+Service areas: Milton, Guelph, Georgetown, Fergus, Elora, Acton, Rockwood
+
+## Key pages
+
+- [Home](https://miltonheatingcooling.ca/): Milton Heating & Cooling homepage with service overview and FAQ
+- [About](https://miltonheatingcooling.ca/about/): About the company and service area
+- [Contact](https://miltonheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://miltonheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Milton, Ontario
+- [AC Installation & Repair](https://miltonheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Milton, Ontario
+- [Heat Pumps](https://miltonheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Milton, Ontario
+- [Duct Cleaning](https://miltonheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Milton, Ontario
+- [Thermostats](https://miltonheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Milton, Ontario
+- [Ductless AC Installation](https://miltonheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Milton, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Milton are answered on the homepage.
